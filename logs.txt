@@ -1,0 +1,6 @@
+1874600026 deposit amount: 6718.239409827017 Dolar
+1639837129 deposit amount: 953.1000000000001 Altın
+1053349499 deposit amount: 100.0 TL
+1053349499 deposit amount: 400.0 TL
+1053349499 deposit amount: 700.0 TL
+1053349499 deposit amount: 1000.0 TL
